@@ -77,6 +77,3 @@ Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new feature branch.
 3. Submit a pull request.
-
-## Contact
-For any questions or issues, feel free to contact me at mayank.chudasama010@gmail.com.
