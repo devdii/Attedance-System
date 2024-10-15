@@ -1,4 +1,4 @@
-# Smart Attendance System
+## Attendance System
 
 ## Project Description
 The **Smart Attendance System** is an automated solution designed to track attendance using facial recognition technology. It simplifies the process of attendance management by eliminating manual errors and providing real-time data capture for both administrators and users.
